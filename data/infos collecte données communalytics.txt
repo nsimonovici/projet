@@ -1,0 +1,79 @@
+Bluesky user timeline pour le fichier bluesky-comptes-politiques" :
+
+parti socialiste : @partisocialiste.bsky.social
+Délégation Europe écologie au Parlement européen : @euroecolos.bsky.social
+Les Écologistes - EELV 🌻 : @lesecologistesfr.bsky.social
+La France Insoumise : @lfi.bsky.social
+Parti communiste Français : @pcf.bsky.social
+
+Bluesky user timeline pour le fichier bluesky-comptes-politiques-2" :
+L’Europe Ensemble : @ensembleue.bsky.social
+Mouvement Démocrate : @mouvementdemocrate.bsky.social
+
+Bluesky user timeline pour le fichier bluesky-comptes-politiques-3" :
+Sandrine Rousseau : @sandrousseau.bsky.social
+Eric Coquerel : @ericcoquerel.bsky.social
+
+Bluesky historical search pour le fichier bluesky-politique" :
+query = "politique"
+
+FICHIERS EXTRAITS LE 26 NOVEMBRE 2024, la recherche va jusqu'au 25 novembre inclus
+
+Comptes RN : 
+@jordanbardella.bsky.social
+@sebastienchenu.bsky.social
+@jptanguy.bsky.social
+
+Renaissance :
+@solange1.bsky.social (adhérente, beaucoup de posts)
+
+MASTODON :
+
+Philippe Poutou : @PhilippePoutou
+
+A éventuellement faire évoluer dans l'annotation :
+- Ajouter les thèmes : 
+	* Sécurité / Terrorisme
+	* "on se tire dans les pattes entre partis"
+	* Autopublicité / pub pour une émission ou similaire
+	* Travail / Entreprises
+	* Conflit ?
+	* Parlement / Assemblée
+	* Legislation
+	* Europe
+- Changer "police / justice" en "sécurité / justice" ?
+
+
+DOMAINES :
+
+FRANCE :
+international
+environnement
+économie
+pouvoir d’achat
+fiscalité
+social
+services publics
+éducation
+santé
+institutions
+immigration
+police / justice
+outre-mer
+culture et médias
+
+
+EUROPE : 
+le marché intérieur
+la politique sociale (pour certains aspects)
+la cohésion économique, sociale et territoriale (politique régionale)
+l’agriculture et la pêche (à l’exclusion de la conservation des ressources biologiques de la mer)
+l’environnement
+la protection des consommateurs
+les transports
+les réseaux transeuropéens
+l’énergie
+l’espace de liberté, de sécurité et de justice
+les enjeux communs de sécurité en matière de santé publique (pour certains aspects)
+la recherche, le développement technologique et l’espace
+la coopération au développement et l’aide humanitaire
